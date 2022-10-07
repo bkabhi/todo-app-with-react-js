@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bkabhi.github.io/csb-0rr2xo/static/css/main.d94f4a0b.chunk.css",
+    "main.js": "https://bkabhi.github.io/csb-0rr2xo/static/js/main.cb234de0.chunk.js",
+    "main.js.map": "https://bkabhi.github.io/csb-0rr2xo/static/js/main.cb234de0.chunk.js.map",
+    "runtime-main.js": "https://bkabhi.github.io/csb-0rr2xo/static/js/runtime-main.5a7b055d.js",
+    "runtime-main.js.map": "https://bkabhi.github.io/csb-0rr2xo/static/js/runtime-main.5a7b055d.js.map",
+    "static/js/2.d22d60ad.chunk.js": "https://bkabhi.github.io/csb-0rr2xo/static/js/2.d22d60ad.chunk.js",
+    "static/js/2.d22d60ad.chunk.js.map": "https://bkabhi.github.io/csb-0rr2xo/static/js/2.d22d60ad.chunk.js.map",
+    "index.html": "https://bkabhi.github.io/csb-0rr2xo/index.html",
+    "static/css/main.d94f4a0b.chunk.css.map": "https://bkabhi.github.io/csb-0rr2xo/static/css/main.d94f4a0b.chunk.css.map",
+    "static/js/2.d22d60ad.chunk.js.LICENSE.txt": "https://bkabhi.github.io/csb-0rr2xo/static/js/2.d22d60ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a7b055d.js",
+    "static/js/2.d22d60ad.chunk.js",
+    "static/css/main.d94f4a0b.chunk.css",
+    "static/js/main.cb234de0.chunk.js"
+  ]
+}
