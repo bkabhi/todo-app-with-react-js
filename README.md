@@ -1,3 +1,3 @@
-# csb-0rr2xo
+# todo app
 
 https://todo-app-by-abhijeet.vercel.app/
